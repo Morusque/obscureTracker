@@ -1,10 +1,10 @@
 obscureTracker<br/>
-==============
-
-Minimalist Hackvision tracker
-
-http://nurykabe.com/visit/programming/hardware/obscure%20tracker/
-
+==============<br/>
+<br/>
+Minimalist Hackvision tracker<br/>
+<br/>
+http://nurykabe.com/visit/programming/hardware/obscure%20tracker/<br/>
+<br/>
 live menu :
 FIRE+UP = go to the beauty menu
 FIRE+DOWN = go to the notes menu
