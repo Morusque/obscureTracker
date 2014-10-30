@@ -1,0 +1,4 @@
+obscureTracker
+==============
+
+Minimalist Hackvision tracker
