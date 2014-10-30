@@ -5,6 +5,8 @@ Minimalist Hackvision tracker<br/>
 <br/>
 http://nurykabe.com/visit/programming/hardware/obscure%20tracker/<br/>
 <br/>
+https://www.youtube.com/watch?v=jZR61MzZ7xo<br/>
+<br/>
 live menu :<br/>
 FIRE+UP = go to the beauty menu<br/>
 FIRE+DOWN = go to the notes menu<br/>
