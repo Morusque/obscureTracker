@@ -3,7 +3,7 @@ obscureTracker<br/>
 <br/>
 Minimalist Hackvision tracker<br/>
 <br/>
-http://nurykabe.com/dump/programming/hardware/obscure%20tracker/<br/>
+http://nurykabe.com/dump/tools/obscure%20tracker/<br/>
 <br/>
 https://www.youtube.com/watch?v=jZR61MzZ7xo<br/>
 <br/>
